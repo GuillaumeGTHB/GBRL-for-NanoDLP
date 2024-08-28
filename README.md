@@ -1,4 +1,8 @@
-![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
+Arduino outputs and homing parameters have been modified to be compatible with NanoDLP. The UV power is now adjustable using the "M3" command. Pay careful attention to the correct correspondence of the diagram
+
+![HMI NEXTION 2 8](https://github.com/user-attachments/assets/590c51b8-4dbd-40d8-9950-a86d48239de8)
+
+
 ***
 
 ### Grbl v1.1 has been released [here](https://github.com/gnea/grbl/releases)!
